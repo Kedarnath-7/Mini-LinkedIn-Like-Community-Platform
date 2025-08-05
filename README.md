@@ -246,7 +246,7 @@ This project showcases the complete skillset required for modern full-stack web 
 
 ## 🚀 Live Demo
 
-🔗 **Live URL**: [https://mini-linkedin.vercel.app](https://kedarnath-cianncybertech.netlify.app/)
+🔗 **Live URL**: [https://kedarnath-ciaancybertech.netlify.app/](https://kedarnath-ciaancybertech.netlify.app/)
 
 ## 🧪 Demo User Accounts
 
