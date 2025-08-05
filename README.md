@@ -39,7 +39,7 @@ A modern, full-stack social networking platform built for the Ciaan Cyber Tech i
   - Built-in authentication
 
 ### Deployment
-- **Vercel** - Serverless deployment platform
+- **Netlify** - Serverless deployment platform
 
 ## 📁 Project Structure
 
@@ -141,20 +141,20 @@ linkedin-clone/
 
 ## 🌐 Deployment
 
-### Vercel Deployment (Recommended)
+### Netlify Deployment (Recommended)
 
-1. **Connect to Vercel**
+1. **Connect to Netlify**
    - Push your code to GitHub
-   - Import project in Vercel dashboard
+   - Import project in Netlify dashboard
    - Connect your GitHub repository
 
 2. **Environment Variables**
-   Add the same environment variables in Vercel dashboard:
+   Add the same environment variables in Netlify dashboard:
    - `NEXT_PUBLIC_SUPABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
 
 3. **Deploy**
-   Vercel will automatically deploy on every push to main branch
+   Netlify will automatically deploy on every push to main branch
 
 ## 📊 Key Features Breakdown
 
@@ -246,7 +246,7 @@ This project showcases the complete skillset required for modern full-stack web 
 
 ## 🚀 Live Demo
 
-🔗 **Live URL**: https://mini-linkedin.vercel.app
+🔗 **Live URL**: [https://mini-linkedin.vercel.app](https://kedarnath-cianncybertech.netlify.app/)
 
 ## 🧪 Demo User Accounts
 
