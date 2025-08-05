@@ -1,4 +1,4 @@
-# LinkedClone - Mini LinkedIn Community Platform
+# Mini-LinkedIn Like Community Platform
 
 A modern, full-stack social networking platform built for the Ciaan Cyber Tech internship application. This project demonstrates comprehensive web development skills with a focus on user experience, real-time interactions, and professional design.
 
