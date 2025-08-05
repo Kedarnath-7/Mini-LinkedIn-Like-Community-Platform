@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "LinkedIn Clone - Mini Community Platform",
+  title: "Mini LinkedIn Like Community Platform",
   description: "A mini LinkedIn-like community platform built with Next.js and Supabase",
 };
 

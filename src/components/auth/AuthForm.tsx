@@ -59,7 +59,7 @@ export default function AuthForm({ mode, onToggleMode }: AuthFormProps) {
             </div>
           </div>
           <h1 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-2">
-            LinkedClone
+            Mini LinkedIn Community
           </h1>
           <h2 className="text-2xl font-bold text-gray-800 mb-2">
             {mode === 'login' ? 'Welcome back!' : 'Join the community'}
