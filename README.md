@@ -91,7 +91,7 @@ linkedin-clone/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Kedarnath-7/Mini-LinkedIn-Like-Community-Platform
    cd linkedin-clone
    ```
 
